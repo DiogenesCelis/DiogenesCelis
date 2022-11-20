@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-**DiogenesCelis/DiogenesCelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+you thought it was a random read.me repository but it was actually me, Dio!
 
+Quasi Bohemio - Quasi Contemporâneo
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- Pensaste que era un perfil más? Pero en realidad era yo ¡Dio!
-Quasi Bohemio - Quasi Contemporâneo
-Adm. Empresas - Inge. Multimedia
-ESP 🇨🇴 / PTG 🇧🇷
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
