@@ -1,8 +1,10 @@
-### Hi there 👋
+### Perfil en construcción 🚧
 
-you thought it was a random read.me repository but it was actually me, Dio!
+You thought it was a random read.me repository but it was actually me, Dio!
 
 Quasi Bohemio - Quasi Contemporâneo
+
+
 <!--
 Here are some ideas to get you started:
 
