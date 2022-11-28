@@ -11,6 +11,8 @@ Quasi Bohemio - Quasi Contemporâneo
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg" alt="banner - replace it with a banner with my info">
 You thought it was a random read.me repository but it was actually me, Dio!
+<!--
+-->
 
 I´m multimedia engineer and software developer in training who is passionate about learning new things and putting them into practice as soon as possible. Some technologies I'm getting familiar with include Java, Html, CSS, and JavaScript.
 
