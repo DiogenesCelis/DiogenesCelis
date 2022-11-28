@@ -9,7 +9,7 @@ Quasi Bohemio - Quasi Contemporâneo
 # Hi, I'm Diogenes 👋🏾
 ## Multimedia Engineer and Software Developer
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg" alt="banner - replace it with a banner with my info">
+<!-- <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg" alt="banner - replace it with a banner with my info"> -->
 You thought it was a random read.me repository but it was actually me, Dio!
 
 I am a multimedia engineer and software developer in training who is passionate about learning new things and putting them into practice as soon as possible. Some technologies I'm getting familiar with include Java, Html, CSS, and JavaScript.
@@ -20,7 +20,7 @@ Trained in business administration, I have completed diplomas in digital marketi
 I am currently part of the team in charge of the creation and promotion of the integrating event as well as the marketing strategy and management of social networks of the  <a href="https://www.instagram.com/ingmultimedia/">multimedia engineering program</a>.
 
 
-## About Me <a href="https://storyset.com/illustration/hand-coding/pana"><img align="left" width="150" height="150" src="https://storyset.com/illustration/programmer/cuate#37474FFF&hide=&hide=complete"></a>
+## About Me <!-- <a href="https://storyset.com/illustration/hand-coding/pana"><img align="left" width="150" height="150" src="https://storyset.com/illustration/programmer/cuate#37474FFF&hide=&hide=complete"></a> -->
 - Frontend : Java / JavaScript / HTML / CSS
 - Tools : Photoshop / Illustrator / Blender
 - Language : Spanish / English / Portuguese
